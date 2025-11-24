@@ -1,4 +1,4 @@
-# UAC-Template 🚀
+# ultimate-rbac-template 🚀
 
 **NestJS + Vue3 用户权限管理系统模板**
 
